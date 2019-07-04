@@ -1,5 +1,8 @@
-# Gaussianize data
+# Fork
+This is a fork of the versteeg gaussianize implementation under the MIT license.
+https://github.com/gregversteeg/gaussianize
 
+# Gaussianize data
 
 The idea is to apply a smooth, invertible transformation to some univariate data so that the distribution of the
  transformed data is as Gaussian as possible. This would be a pre-processing step for some other analysis. Why might
