@@ -8,7 +8,7 @@ setup(
     author='Abram Spamers',
     author_email='abram.spamers@team.telstra.com',
     install_requires=[
-        'numpy, scipy, sklearn'
+        'numpy', 'scipy', 'sklearn'
     ],
     description='A fork of the versteeg gaussianize library'
 )
