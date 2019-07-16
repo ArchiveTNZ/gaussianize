@@ -310,3 +310,4 @@ if __name__ == '__main__':
         if not os.path.exists(prefix+'_q'):
             os.makedirs(prefix+'_q')
         out.qqplot(X, prefix=prefix + '_q/q')
+        
